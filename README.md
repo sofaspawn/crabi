@@ -1,2 +1,2 @@
 # crabi
-- something in raylib ^^^ not sure yet
+- movement tracker in c
